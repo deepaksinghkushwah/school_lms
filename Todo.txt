@@ -1,0 +1,2 @@
+1. Students can only view their purchased courses and take only course related exams - done
+2. Implement payUmoney gateway

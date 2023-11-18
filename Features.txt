@@ -1,0 +1,38 @@
+Admin Panel Features
+
+    Managing User accounts (teacher, student, parent) - done
+    Managing classes, subjects  - done
+    Managing class routine
+    Managing exam, grades
+    Managing exam marks
+    Sending exam marks via sms
+    Managing students attendance
+    Managing accounting, income & expenses
+    Managing school events
+    //Managing library, dormitory, transport
+    Messaging between other users
+    Managing system settings (general, sms, language)
+
+Teacher Panel Features
+
+    Managing students
+    Managing exam marks
+    Provide study materials/files to students
+    Managing attendance
+
+Student Panel Features
+
+    Get class routine
+    Get exam marks
+    Get attendance status
+    Get study materials / files from teacher
+    Get payment invoices, pay online
+    Communicate with teacher
+
+Parent Panel Features
+
+    Get children marks
+    Get children payment invoices
+    Get children class routine
+    Messaging with teachers
+ 
